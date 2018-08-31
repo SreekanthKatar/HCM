@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="9" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HCM Suite" duration-ms="46716" started-at="2018-08-30T06:36:28Z" finished-at="2018-08-30T06:37:15Z">
+    <groups>
+    </groups>
+    <test name="LoginPageTest" duration-ms="46685" started-at="2018-08-30T06:36:28Z" finished-at="2018-08-30T06:37:15Z">
+      <class name="com.vbts.hcm.tests.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="SetUp" is-config="true" duration-ms="7580" started-at="2018-08-30T06:36:28Z" finished-at="2018-08-30T06:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Emp_Login()[pri:3, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="Emp_Login" duration-ms="5547" started-at="2018-08-30T06:36:36Z" finished-at="2018-08-30T06:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emp_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="tearDown" is-config="true" duration-ms="2953" started-at="2018-08-30T06:36:41Z" finished-at="2018-08-30T06:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="SetUp" is-config="true" duration-ms="6863" started-at="2018-08-30T06:36:44Z" finished-at="2018-08-30T06:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="RM_Login()[pri:4, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="RM_Login" duration-ms="5419" started-at="2018-08-30T06:36:51Z" finished-at="2018-08-30T06:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RM_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="tearDown" is-config="true" duration-ms="2931" started-at="2018-08-30T06:36:56Z" finished-at="2018-08-30T06:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="SetUp" is-config="true" duration-ms="6933" started-at="2018-08-30T06:36:59Z" finished-at="2018-08-30T06:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="HR_Login()[pri:5, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="HR_Login" duration-ms="5442" started-at="2018-08-30T06:37:06Z" finished-at="2018-08-30T06:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HR_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.vbts.hcm.tests.LoginPageTest@eafc191]" name="tearDown" is-config="true" duration-ms="3001" started-at="2018-08-30T06:37:12Z" finished-at="2018-08-30T06:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vbts.hcm.tests.LoginPageTest -->
+    </test> <!-- LoginPageTest -->
+    <test name="HomePageTest" duration-ms="0" started-at="2018-08-30T06:37:15Z" finished-at="2018-08-30T06:37:15Z">
+    </test> <!-- HomePageTest -->
+  </suite> <!-- HCM Suite -->
+</testng-results>

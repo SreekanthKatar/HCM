@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HCM Suite]">
+  <listeners>
+    <listener class-name="com.vbts.hcm.listeners.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="LoginPageTest(failed)">
+    <classes>
+      <class name="com.vbts.hcm.tests.LoginPageTest">
+        <methods>
+          <include name="RM_Login"/>
+          <include name="Emp_Login"/>
+          <include name="HR_Login"/>
+          <include name="ValidateLoginPagePhoneLogo"/>
+          <include name="ValidateLoginPageTitle"/>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+          <include name="ValidateLoginPageURL"/>
+        </methods>
+      </class> <!-- com.vbts.hcm.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- LoginPageTest(failed) -->
+</suite> <!-- Failed suite [HCM Suite] -->
