@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[Execution Begining Suite: < HCM Suite >]]>
+    </line>
+    <line>
+      <![CDATA[Execution Begining Test: < LoginPageTest >]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| ValidateLoginPageTitle ||:::: 01-09-2018-04:24:27 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Login Page Title is: Login]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< ValidateLoginPageTitle >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:24:27 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| ValidateLoginPageURL ||:::: 01-09-2018-04:24:36 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[LoginPageURL is http://192.168.2.140:8282/thcm/]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< ValidateLoginPageURL >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:24:36 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| ValidateLoginPagePhoneLogo ||:::: 01-09-2018-04:24:45 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Phone Logo is Displayed in Login Page]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< ValidateLoginPagePhoneLogo >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:24:46 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| Emp_Login ||:::: 01-09-2018-04:24:55 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< Emp_Login >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:01 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| RM_Login ||:::: 01-09-2018-04:25:09 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< RM_Login >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:14 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| HR_Login ||:::: 01-09-2018-04:25:22 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< HR_Login >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:27 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[Completed Executing Test:< LoginPageTest >]]>
+    </line>
+    <line>
+      <![CDATA[Execution Begining Test: < HomePageTest >]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| ValidateHomePageTitle ||:::: 01-09-2018-04:25:40 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Home Page Title is: HCM]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.HomePageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< ValidateHomePageTitle >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:40 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| ValidateHomePageURL ||:::: 01-09-2018-04:25:53 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[HomePageURL is http://192.168.2.140:8282/thcm/employeeSelfService]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.HomePageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< ValidateHomePageURL >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:53 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| ValidateHomePageHCMLogo ||:::: 01-09-2018-04:26:05 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[HCM Logo is Displayed in Home Page]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.hcm.vbts.tests.HomePageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< ValidateHomePageHCMLogo >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:26:05 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+  </reporter-output>
+  <suite name="HCM Suite" duration-ms="116294" started-at="2018-09-01T10:54:09Z" finished-at="2018-09-01T10:56:06Z">
+    <groups>
+    </groups>
+    <test name="LoginPageTest" duration-ms="77926" started-at="2018-09-01T10:54:09Z" finished-at="2018-09-01T10:55:27Z">
+      <class name="com.hcm.vbts.tests.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="17268" started-at="2018-09-01T10:54:09Z" finished-at="2018-09-01T10:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateLoginPageTitle()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPageTitle" duration-ms="36" started-at="2018-09-01T10:54:27Z" finished-at="2018-09-01T10:54:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| ValidateLoginPageTitle ||:::: 01-09-2018-04:24:27 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Login Page Title is: Login]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< ValidateLoginPageTitle >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:24:27 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="618" started-at="2018-09-01T10:54:27Z" finished-at="2018-09-01T10:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="8640" started-at="2018-09-01T10:54:27Z" finished-at="2018-09-01T10:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateLoginPageURL()[pri:1, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPageURL" duration-ms="20" started-at="2018-09-01T10:54:36Z" finished-at="2018-09-01T10:54:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| ValidateLoginPageURL ||:::: 01-09-2018-04:24:36 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[LoginPageURL is http://192.168.2.140:8282/thcm/]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< ValidateLoginPageURL >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:24:36 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginPageURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="571" started-at="2018-09-01T10:54:36Z" finished-at="2018-09-01T10:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="8763" started-at="2018-09-01T10:54:37Z" finished-at="2018-09-01T10:54:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateLoginPagePhoneLogo()[pri:2, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPagePhoneLogo" duration-ms="178" started-at="2018-09-01T10:54:45Z" finished-at="2018-09-01T10:54:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| ValidateLoginPagePhoneLogo ||:::: 01-09-2018-04:24:45 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Phone Logo is Displayed in Login Page]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< ValidateLoginPagePhoneLogo >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:24:46 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginPagePhoneLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="556" started-at="2018-09-01T10:54:46Z" finished-at="2018-09-01T10:54:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="9005" started-at="2018-09-01T10:54:46Z" finished-at="2018-09-01T10:54:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Emp_Login()[pri:3, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="Emp_Login" duration-ms="6117" started-at="2018-09-01T10:54:55Z" finished-at="2018-09-01T10:55:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| Emp_Login ||:::: 01-09-2018-04:24:55 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< Emp_Login >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:01 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Emp_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="571" started-at="2018-09-01T10:55:01Z" finished-at="2018-09-01T10:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="7353" started-at="2018-09-01T10:55:02Z" finished-at="2018-09-01T10:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="RM_Login()[pri:4, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="RM_Login" duration-ms="5090" started-at="2018-09-01T10:55:09Z" finished-at="2018-09-01T10:55:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| RM_Login ||:::: 01-09-2018-04:25:09 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< RM_Login >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:14 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RM_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="600" started-at="2018-09-01T10:55:14Z" finished-at="2018-09-01T10:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="6707" started-at="2018-09-01T10:55:15Z" finished-at="2018-09-01T10:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="HR_Login()[pri:5, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="HR_Login" duration-ms="5226" started-at="2018-09-01T10:55:22Z" finished-at="2018-09-01T10:55:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| HR_Login ||:::: 01-09-2018-04:25:22 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< HR_Login >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:27 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HR_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="575" started-at="2018-09-01T10:55:27Z" finished-at="2018-09-01T10:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hcm.vbts.tests.LoginPageTest -->
+    </test> <!-- LoginPageTest -->
+    <test name="HomePageTest" duration-ms="38274" started-at="2018-09-01T10:55:27Z" finished-at="2018-09-01T10:56:06Z">
+      <class name="com.hcm.vbts.tests.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="12613" started-at="2018-09-01T10:55:27Z" finished-at="2018-09-01T10:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateHomePageTitle()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageTitle" duration-ms="6" started-at="2018-09-01T10:55:40Z" finished-at="2018-09-01T10:55:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| ValidateHomePageTitle ||:::: 01-09-2018-04:25:40 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Home Page Title is: HCM]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.HomePageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< ValidateHomePageTitle >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:40 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="606" started-at="2018-09-01T10:55:40Z" finished-at="2018-09-01T10:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="12061" started-at="2018-09-01T10:55:41Z" finished-at="2018-09-01T10:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateHomePageURL()[pri:1, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageURL" duration-ms="8" started-at="2018-09-01T10:55:53Z" finished-at="2018-09-01T10:55:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| ValidateHomePageURL ||:::: 01-09-2018-04:25:53 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[HomePageURL is http://192.168.2.140:8282/thcm/employeeSelfService]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.HomePageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< ValidateHomePageURL >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:25:53 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateHomePageURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="616" started-at="2018-09-01T10:55:53Z" finished-at="2018-09-01T10:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="11704" started-at="2018-09-01T10:55:53Z" finished-at="2018-09-01T10:56:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateHomePageHCMLogo()[pri:2, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageHCMLogo" duration-ms="89" started-at="2018-09-01T10:56:05Z" finished-at="2018-09-01T10:56:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| ValidateHomePageHCMLogo ||:::: 01-09-2018-04:26:05 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[HCM Logo is Displayed in Home Page]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.hcm.vbts.tests.HomePageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< ValidateHomePageHCMLogo >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-04:26:05 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateHomePageHCMLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="565" started-at="2018-09-01T10:56:05Z" finished-at="2018-09-01T10:56:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hcm.vbts.tests.HomePageTest -->
+    </test> <!-- HomePageTest -->
+  </suite> <!-- HCM Suite -->
+</testng-results>

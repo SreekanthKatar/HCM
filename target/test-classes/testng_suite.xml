@@ -3,22 +3,24 @@
 
 	<listeners>
 		<listener
-			class-name="com.vbts.hcm.listeners.ExtentReporterNG" />
+			class-name="com.hcm.vbts.listeners.ExtentReporterNG" />
+		<listener
+			class-name="com.hcm.vbts.listeners.CustomListener" />
 	</listeners>
 
 	<test name="LoginPageTest">
 		<classes>
-			<class name="com.vbts.hcm.tests.LoginPageTest">
-<!-- 				<methods> -->
-<!-- 					<exclude name="Login"></exclude> -->
-<!-- 				</methods> -->
+			<class name="com.hcm.vbts.tests.LoginPageTest">
+				<!-- <methods> -->
+				<!-- <exclude name="Login"></exclude> -->
+				<!-- </methods> -->
 			</class>
 		</classes>
 	</test>
 
 	<test name="HomePageTest">
 		<classes>
-			<class name="com.vbts.hcm.tests.HomePageTest" />
+			<class name="com.hcm.vbts.tests.HomePageTest" />
 		</classes>
 	</test>
 </suite>
