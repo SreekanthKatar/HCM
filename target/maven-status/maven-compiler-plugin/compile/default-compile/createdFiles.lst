@@ -5,3 +5,4 @@ com\hcm\vbts\pages\LoginPage.class
 com\hcm\vbts\pages\HomePage.class
 com\hcm\vbts\listeners\WebEventListner.class
 com\hcm\vbts\base\TestBase.class
+com\hcm\vbts\utils\Xls_Reader.class

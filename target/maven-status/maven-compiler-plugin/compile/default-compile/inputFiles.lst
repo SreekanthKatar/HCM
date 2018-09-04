@@ -2,6 +2,7 @@ D:\Projects\POM_Automation\HCM\src\main\java\com\hcm\vbts\listeners\WebEventList
 D:\Projects\POM_Automation\HCM\src\main\java\com\hcm\vbts\base\TestBase.java
 D:\Projects\POM_Automation\HCM\src\main\java\com\hcm\vbts\pages\HomePage.java
 D:\Projects\POM_Automation\HCM\src\main\java\com\hcm\vbts\listeners\ExtentReporterNG.java
+D:\Projects\POM_Automation\HCM\src\main\java\com\hcm\vbts\utils\Xls_Reader.java
 D:\Projects\POM_Automation\HCM\src\main\java\com\hcm\vbts\pages\LoginPage.java
 D:\Projects\POM_Automation\HCM\src\main\java\com\hcm\vbts\listeners\CustomListener.java
 D:\Projects\POM_Automation\HCM\src\main\java\com\hcm\vbts\utils\TestUtil.java
