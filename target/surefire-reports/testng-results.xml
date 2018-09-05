@@ -15,7 +15,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| ValidateLoginPageTitle ||:::: 04-09-2018-01:07:50 ]]>
+      <![CDATA[TEST----------->>::::|| ValidateLoginPageTitle ||:::: 05-09-2018-01:30:31 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -33,7 +33,7 @@
       <![CDATA[DONE==>>----<< ValidateLoginPageTitle >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:07:50 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:30:31 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -46,7 +46,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| ValidateLoginPageURL ||:::: 04-09-2018-01:07:57 ]]>
+      <![CDATA[TEST----------->>::::|| ValidateLoginPageURL ||:::: 05-09-2018-01:30:49 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -64,7 +64,7 @@
       <![CDATA[DONE==>>----<< ValidateLoginPageURL >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:07:57 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:30:49 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -77,7 +77,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| ValidateLoginPagePhoneLogo ||:::: 04-09-2018-01:08:04 ]]>
+      <![CDATA[TEST----------->>::::|| ValidateLoginPagePhoneLogo ||:::: 05-09-2018-01:31:00 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -95,7 +95,7 @@
       <![CDATA[DONE==>>----<< ValidateLoginPagePhoneLogo >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:04 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:31:01 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -108,7 +108,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| Emp_Login ||:::: 04-09-2018-01:08:11 ]]>
+      <![CDATA[TEST----------->>::::|| Emp_Login ||:::: 05-09-2018-01:31:15 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -123,7 +123,7 @@
       <![CDATA[DONE==>>----<< Emp_Login >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:16 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:31:26 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -136,7 +136,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| RM_Login ||:::: 04-09-2018-01:08:24 ]]>
+      <![CDATA[TEST----------->>::::|| RM_Login ||:::: 05-09-2018-01:31:35 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -151,7 +151,7 @@
       <![CDATA[DONE==>>----<< RM_Login >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:29 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:31:41 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -164,7 +164,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| HR_Login ||:::: 04-09-2018-01:08:36 ]]>
+      <![CDATA[TEST----------->>::::|| HR_Login ||:::: 05-09-2018-01:31:49 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -179,7 +179,7 @@
       <![CDATA[DONE==>>----<< HR_Login >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:41 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:31:55 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -198,7 +198,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| ValidateHomePageTitle ||:::: 04-09-2018-01:08:53 ]]>
+      <![CDATA[TEST----------->>::::|| ValidateHomePageTitle ||:::: 05-09-2018-01:32:09 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -216,7 +216,7 @@
       <![CDATA[DONE==>>----<< ValidateHomePageTitle >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:53 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:32:09 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -229,7 +229,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| ValidateHomePageURL ||:::: 04-09-2018-01:09:05 ]]>
+      <![CDATA[TEST----------->>::::|| ValidateHomePageURL ||:::: 05-09-2018-01:32:27 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -247,7 +247,7 @@
       <![CDATA[DONE==>>----<< ValidateHomePageURL >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:09:05 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:32:27 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -260,7 +260,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| ValidateHomePageHCMLogo ||:::: 04-09-2018-01:09:17 ]]>
+      <![CDATA[TEST----------->>::::|| ValidateHomePageHCMLogo ||:::: 05-09-2018-01:32:44 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -278,22 +278,22 @@
       <![CDATA[DONE==>>----<< ValidateHomePageHCMLogo >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:09:17 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:32:44 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
   </reporter-output>
-  <suite name="HCM Suite" duration-ms="95357" started-at="2018-09-04T07:37:43Z" finished-at="2018-09-04T07:39:18Z">
+  <suite name="HCM Suite" duration-ms="151052" started-at="2018-09-05T08:00:13Z" finished-at="2018-09-05T08:02:44Z">
     <groups>
     </groups>
-    <test name="LoginPageTest" duration-ms="59130" started-at="2018-09-04T07:37:43Z" finished-at="2018-09-04T07:38:42Z">
+    <test name="LoginPageTest" duration-ms="102231" started-at="2018-09-05T08:00:13Z" finished-at="2018-09-05T08:01:56Z">
       <class name="com.hcm.vbts.tests.LoginPageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="7352" started-at="2018-09-04T07:37:43Z" finished-at="2018-09-04T07:37:50Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="17878" started-at="2018-09-05T08:00:13Z" finished-at="2018-09-05T08:00:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateLoginPageTitle()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPageTitle" duration-ms="16" started-at="2018-09-04T07:37:50Z" finished-at="2018-09-04T07:37:50Z">
+        <test-method status="PASS" signature="ValidateLoginPageTitle()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPageTitle" duration-ms="33" started-at="2018-09-05T08:00:31Z" finished-at="2018-09-05T08:00:31Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -303,7 +303,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| ValidateLoginPageTitle ||:::: 04-09-2018-01:07:50 ]]>
+              <![CDATA[TEST----------->>::::|| ValidateLoginPageTitle ||:::: 05-09-2018-01:30:31 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -321,22 +321,22 @@
               <![CDATA[DONE==>>----<< ValidateLoginPageTitle >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:07:50 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:30:31 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- ValidateLoginPageTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="622" started-at="2018-09-04T07:37:50Z" finished-at="2018-09-04T07:37:51Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="828" started-at="2018-09-05T08:00:31Z" finished-at="2018-09-05T08:00:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="6381" started-at="2018-09-04T07:37:51Z" finished-at="2018-09-04T07:37:57Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="17296" started-at="2018-09-05T08:00:32Z" finished-at="2018-09-05T08:00:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateLoginPageURL()[pri:1, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPageURL" duration-ms="16" started-at="2018-09-04T07:37:57Z" finished-at="2018-09-04T07:37:57Z">
+        <test-method status="PASS" signature="ValidateLoginPageURL()[pri:1, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPageURL" duration-ms="11" started-at="2018-09-05T08:00:49Z" finished-at="2018-09-05T08:00:49Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -346,7 +346,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| ValidateLoginPageURL ||:::: 04-09-2018-01:07:57 ]]>
+              <![CDATA[TEST----------->>::::|| ValidateLoginPageURL ||:::: 05-09-2018-01:30:49 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -364,22 +364,22 @@
               <![CDATA[DONE==>>----<< ValidateLoginPageURL >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:07:57 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:30:49 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- ValidateLoginPageURL -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="568" started-at="2018-09-04T07:37:57Z" finished-at="2018-09-04T07:37:58Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="600" started-at="2018-09-05T08:00:49Z" finished-at="2018-09-05T08:00:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="6380" started-at="2018-09-04T07:37:58Z" finished-at="2018-09-04T07:38:04Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="9802" started-at="2018-09-05T08:00:50Z" finished-at="2018-09-05T08:01:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateLoginPagePhoneLogo()[pri:2, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPagePhoneLogo" duration-ms="130" started-at="2018-09-04T07:38:04Z" finished-at="2018-09-04T07:38:04Z">
+        <test-method status="PASS" signature="ValidateLoginPagePhoneLogo()[pri:2, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="ValidateLoginPagePhoneLogo" duration-ms="1086" started-at="2018-09-05T08:01:00Z" finished-at="2018-09-05T08:01:01Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -389,7 +389,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| ValidateLoginPagePhoneLogo ||:::: 04-09-2018-01:08:04 ]]>
+              <![CDATA[TEST----------->>::::|| ValidateLoginPagePhoneLogo ||:::: 05-09-2018-01:31:00 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -407,22 +407,22 @@
               <![CDATA[DONE==>>----<< ValidateLoginPagePhoneLogo >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:04 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:31:01 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- ValidateLoginPagePhoneLogo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="559" started-at="2018-09-04T07:38:04Z" finished-at="2018-09-04T07:38:05Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="3411" started-at="2018-09-05T08:01:01Z" finished-at="2018-09-05T08:01:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="6447" started-at="2018-09-04T07:38:05Z" finished-at="2018-09-04T07:38:11Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="11091" started-at="2018-09-05T08:01:04Z" finished-at="2018-09-05T08:01:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="Emp_Login()[pri:3, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="Emp_Login" duration-ms="5277" started-at="2018-09-04T07:38:11Z" finished-at="2018-09-04T07:38:16Z">
+        <test-method status="PASS" signature="Emp_Login()[pri:3, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="Emp_Login" duration-ms="10435" started-at="2018-09-05T08:01:15Z" finished-at="2018-09-05T08:01:26Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -432,7 +432,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| Emp_Login ||:::: 04-09-2018-01:08:11 ]]>
+              <![CDATA[TEST----------->>::::|| Emp_Login ||:::: 05-09-2018-01:31:15 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -447,22 +447,22 @@
               <![CDATA[DONE==>>----<< Emp_Login >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:16 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:31:26 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- Emp_Login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="574" started-at="2018-09-04T07:38:16Z" finished-at="2018-09-04T07:38:17Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="697" started-at="2018-09-05T08:01:26Z" finished-at="2018-09-05T08:01:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="6716" started-at="2018-09-04T07:38:17Z" finished-at="2018-09-04T07:38:24Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="7978" started-at="2018-09-05T08:01:27Z" finished-at="2018-09-05T08:01:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="RM_Login()[pri:4, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="RM_Login" duration-ms="5380" started-at="2018-09-04T07:38:24Z" finished-at="2018-09-04T07:38:29Z">
+        <test-method status="PASS" signature="RM_Login()[pri:4, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="RM_Login" duration-ms="6006" started-at="2018-09-05T08:01:35Z" finished-at="2018-09-05T08:01:41Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -472,7 +472,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| RM_Login ||:::: 04-09-2018-01:08:24 ]]>
+              <![CDATA[TEST----------->>::::|| RM_Login ||:::: 05-09-2018-01:31:35 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -487,22 +487,22 @@
               <![CDATA[DONE==>>----<< RM_Login >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:29 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:31:41 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- RM_Login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="571" started-at="2018-09-04T07:38:29Z" finished-at="2018-09-04T07:38:30Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="685" started-at="2018-09-05T08:01:41Z" finished-at="2018-09-05T08:01:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="6381" started-at="2018-09-04T07:38:30Z" finished-at="2018-09-04T07:38:36Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="SetUp" is-config="true" duration-ms="7983" started-at="2018-09-05T08:01:41Z" finished-at="2018-09-05T08:01:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="HR_Login()[pri:5, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="HR_Login" duration-ms="5165" started-at="2018-09-04T07:38:36Z" finished-at="2018-09-04T07:38:41Z">
+        <test-method status="PASS" signature="HR_Login()[pri:5, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="HR_Login" duration-ms="5525" started-at="2018-09-05T08:01:49Z" finished-at="2018-09-05T08:01:55Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -512,7 +512,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| HR_Login ||:::: 04-09-2018-01:08:36 ]]>
+              <![CDATA[TEST----------->>::::|| HR_Login ||:::: 05-09-2018-01:31:49 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -527,26 +527,26 @@
               <![CDATA[DONE==>>----<< HR_Login >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:41 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:31:55 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- HR_Login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="565" started-at="2018-09-04T07:38:41Z" finished-at="2018-09-04T07:38:42Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.LoginPageTest@394e1a0f]" name="tearDown" is-config="true" duration-ms="846" started-at="2018-09-05T08:01:55Z" finished-at="2018-09-05T08:01:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.hcm.vbts.tests.LoginPageTest -->
     </test> <!-- LoginPageTest -->
-    <test name="HomePageTest" duration-ms="36196" started-at="2018-09-04T07:38:42Z" finished-at="2018-09-04T07:39:18Z">
+    <test name="HomePageTest" duration-ms="48805" started-at="2018-09-05T08:01:56Z" finished-at="2018-09-05T08:02:44Z">
       <class name="com.hcm.vbts.tests.HomePageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="11355" started-at="2018-09-04T07:38:42Z" finished-at="2018-09-04T07:38:53Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="13296" started-at="2018-09-05T08:01:56Z" finished-at="2018-09-05T08:02:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateHomePageTitle()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageTitle" duration-ms="11" started-at="2018-09-04T07:38:53Z" finished-at="2018-09-04T07:38:53Z">
+        <test-method status="PASS" signature="ValidateHomePageTitle()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageTitle" duration-ms="31" started-at="2018-09-05T08:02:09Z" finished-at="2018-09-05T08:02:09Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -556,7 +556,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| ValidateHomePageTitle ||:::: 04-09-2018-01:08:53 ]]>
+              <![CDATA[TEST----------->>::::|| ValidateHomePageTitle ||:::: 05-09-2018-01:32:09 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -574,22 +574,22 @@
               <![CDATA[DONE==>>----<< ValidateHomePageTitle >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:08:53 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:32:09 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- ValidateHomePageTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="587" started-at="2018-09-04T07:38:53Z" finished-at="2018-09-04T07:38:54Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="710" started-at="2018-09-05T08:02:09Z" finished-at="2018-09-05T08:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="11371" started-at="2018-09-04T07:38:54Z" finished-at="2018-09-04T07:39:05Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="17602" started-at="2018-09-05T08:02:10Z" finished-at="2018-09-05T08:02:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateHomePageURL()[pri:1, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageURL" duration-ms="46" started-at="2018-09-04T07:39:05Z" finished-at="2018-09-04T07:39:05Z">
+        <test-method status="PASS" signature="ValidateHomePageURL()[pri:1, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageURL" duration-ms="11" started-at="2018-09-05T08:02:27Z" finished-at="2018-09-05T08:02:27Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -599,7 +599,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| ValidateHomePageURL ||:::: 04-09-2018-01:09:05 ]]>
+              <![CDATA[TEST----------->>::::|| ValidateHomePageURL ||:::: 05-09-2018-01:32:27 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -617,22 +617,22 @@
               <![CDATA[DONE==>>----<< ValidateHomePageURL >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:09:05 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:32:27 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- ValidateHomePageURL -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="635" started-at="2018-09-04T07:39:05Z" finished-at="2018-09-04T07:39:06Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="893" started-at="2018-09-05T08:02:27Z" finished-at="2018-09-05T08:02:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="11510" started-at="2018-09-04T07:39:06Z" finished-at="2018-09-04T07:39:17Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="SetUp" is-config="true" duration-ms="15593" started-at="2018-09-05T08:02:28Z" finished-at="2018-09-05T08:02:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateHomePageHCMLogo()[pri:2, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageHCMLogo" duration-ms="94" started-at="2018-09-04T07:39:17Z" finished-at="2018-09-04T07:39:17Z">
+        <test-method status="PASS" signature="ValidateHomePageHCMLogo()[pri:2, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="ValidateHomePageHCMLogo" duration-ms="67" started-at="2018-09-05T08:02:44Z" finished-at="2018-09-05T08:02:44Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -642,7 +642,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| ValidateHomePageHCMLogo ||:::: 04-09-2018-01:09:17 ]]>
+              <![CDATA[TEST----------->>::::|| ValidateHomePageHCMLogo ||:::: 05-09-2018-01:32:44 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -660,14 +660,14 @@
               <![CDATA[DONE==>>----<< ValidateHomePageHCMLogo >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-01:09:17 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:32:44 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- ValidateHomePageHCMLogo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="587" started-at="2018-09-04T07:39:17Z" finished-at="2018-09-04T07:39:18Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hcm.vbts.tests.HomePageTest@5faeada1]" name="tearDown" is-config="true" duration-ms="597" started-at="2018-09-05T08:02:44Z" finished-at="2018-09-05T08:02:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
